@@ -2246,6 +2246,16 @@ span.error {
   opacity: 0;
 }
 
+.carousel-tag{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1rem;
+  font-weight:700;
+  color: white;
+  padding: 5px;
+}
+
 .img-slider-element{
   /* background-color: aqua; */
   height: 15em; 
